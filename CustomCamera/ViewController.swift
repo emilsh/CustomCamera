@@ -58,7 +58,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        view.backgroundColor = .systemGray4
+        view.backgroundColor = .systemGray5
         setupConstraints()
     }
     
